@@ -1,0 +1,11 @@
+body{
+    font: normal normal normal 12px/1.5 verdana, arial, helvetica, sans-serif;
+    height: 100;
+    width: 100;
+    background-color: hsla(199,51%,63%,0.8);
+}
+h2{
+    font-size: 2rem;
+    color: #fc9;
+
+}
